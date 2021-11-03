@@ -1,19 +1,9 @@
-.list-item{
+.chert{
+    width: 300px;
+    font-size: 20px;
+    margin: auto;
+    border: green 3px solid;
+    text-align: center;
     color: red;
-    font-size: 200px;
-
-}
-.list-item{
-    color: red;
-    font-size: 200px;
-
-}.list-item{
-     color: red;
-     font-size: 200px;
-
- }
-.list-item{
-    color: red;
-    font-size: 200px;
-
+    padding: 50px;
 }
