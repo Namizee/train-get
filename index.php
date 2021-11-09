@@ -1,7 +1,7 @@
 <?php
 
 function fun1(){
-	return $value1;
+	return $value1 = 0;
 }
 
 function fun2(){
