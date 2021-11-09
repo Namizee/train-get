@@ -5,5 +5,5 @@ function fun1(){
 }
 
 function fun2(){
-	return $value2;
+	return $value2  = 15;
 }
