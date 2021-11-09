@@ -14,7 +14,7 @@ class Post {
 	}
 
 	public function getTitle() {
-		return $this->title;
+		return 123;
 	}
 
 	public function getContent() {
