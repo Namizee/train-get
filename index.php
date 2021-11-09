@@ -1,9 +1,9 @@
 <?php
 
 function fun1(){
-    return $a = 5;
+    return $a;
 }
 
 function fun2(){
-    return $b = 10;
+    return $b;
 }
