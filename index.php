@@ -1,9 +1,11 @@
 <?php
 
-function fun1(){
-	return $value1 = 0;
-}
+class first {
+	public function first() {
+		return $first;
+	}
 
-function fun2(){
-	return $value2;
+	public function second(){
+		return $second;
+	}
 }
