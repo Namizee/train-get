@@ -14,11 +14,11 @@ class Post {
 	}
 
 	public function getTitle() {
-		return 123;
+		return 678;
 	}
 
 	public function getContent() {
-		return 345;
+		return 910;
 	}
 
 	public function toJSON() {
