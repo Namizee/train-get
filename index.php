@@ -1,11 +1,6 @@
-<?php
 
-class first {
-	public function first() {
-		return $first;
-	}
-
-	public function second(){
-		return $second;
-	}
-}
+<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
