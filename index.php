@@ -2,10 +2,10 @@
 
 class first {
 	public function first() {
-		return $first = 0;
+		return $first = 'asd';
 	}
 
 	public function second(){
-		return $second = 15;
+		return $second = 'qwe';
 	}
 }
