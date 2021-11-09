@@ -1,6 +1,9 @@
+<?php
 
-<ul>
-	<li>111</li>
-	<li>222</li>
-	<li>333</li>
-</ul>
+function fun1(){
+    return $a;
+}
+
+function fun2(){
+    return $b;
+}
