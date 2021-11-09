@@ -18,7 +18,7 @@ class Post {
 	}
 
 	public function getContent() {
-		return $this->content;
+		return 910;
 	}
 
 	public function toJSON() {
